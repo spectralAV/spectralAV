@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/spectralAV/spectralAV/main/assets/spectral-audiovisual-logo.svg" width="340" alt="Spectral Audiovisual logo">
 </p>
 
-<h1 align="center">Hi, I'm Rokas, owner of Spectral Audiovisual</h1>
+<h1 align="center">Hi, I'm Rokas aka MartianOST, owner of Spectral Audiovisual</h1>
 
 <p align="center">
   Engineering the Future of Audiovisual Experiences.
