@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spectralAV/mlbb-co-pilot/main/assets/mlbb-copilot-icon.png" width="120" alt="SpectralAV project icon">
+  <img src="https://raw.githubusercontent.com/spectralAV/spectralAV/main/assets/spectral-audiovisual-logo.svg" width="140" alt="Spectral Audiovisual logo">
 </p>
 
-<h1 align="center">Hi, I'm SpectralAV</h1>
+<h1 align="center">Hi, I'm Rokas owner of Spectral Audiovisual</h1>
 
 <p align="center">
   Building local-first tactical tools, computer-vision workflows, stream overlays, and desktop apps for game analysis.
