@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spectralAV/spectralAV/main/assets/spectral-audiovisual-logo.svg" width="220" alt="Spectral Audiovisual logo">
+  <img src="https://raw.githubusercontent.com/spectralAV/spectralAV/main/assets/spectral-audiovisual-logo.svg" width="340" alt="Spectral Audiovisual logo">
 </p>
 
 <h1 align="center">Hi, I'm Rokas, owner of Spectral Audiovisual</h1>
