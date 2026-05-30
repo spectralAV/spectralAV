@@ -2,14 +2,14 @@
   <img src="https://raw.githubusercontent.com/spectralAV/spectralAV/main/assets/spectral-audiovisual-logo.svg" width="140" alt="Spectral Audiovisual logo">
 </p>
 
-<h1 align="center">Hi, I'm Rokas owner of Spectral Audiovisual</h1>
+<h1 align="center">Hi, I'm Rokas, owner of Spectral Audiovisual</h1>
 
 <p align="center">
-  Building local-first tactical tools, computer-vision workflows, stream overlays, and desktop apps for game analysis.
+  Engineering the Future of Audiovisual Experiences.
 </p>
 
 <p align="center">
-  <a href="https://github.com/spectralAV/mlbb-co-pilot"><img alt="MLBB Co-Pilot" src="https://img.shields.io/badge/featured-MLBB%20Co--Pilot-111827"></a>
+  <a href="https://github.com/spectralAV/mlbb-co-pilot"><img alt="Hobby project: MLBB Co-Pilot" src="https://img.shields.io/badge/hobby%20project-MLBB%20Co--Pilot-111827"></a>
   <a href="https://github.com/spectralAV?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/spectralAV?label=followers&style=flat"></a>
   <a href="https://github.com/spectralAV/mlbb-co-pilot/actions/workflows/ci.yml"><img alt="MLBB Co-Pilot CI" src="https://github.com/spectralAV/mlbb-co-pilot/actions/workflows/ci.yml/badge.svg"></a>
   <a href="https://streamelements.com/martianost/tip"><img alt="Tip on StreamElements" src="https://img.shields.io/badge/tip-StreamElements-9146FF"></a>
@@ -17,20 +17,49 @@
 
 ---
 
-## About Me
+## Spectral Audiovisual
 
-- Focus: `tactical intelligence`, `computer vision`, `desktop tooling`, `live overlays`
-- Main project: [MLBB Co-Pilot](https://github.com/spectralAV/mlbb-co-pilot)
-- Current milestone: moving from public alpha toward `1.0.0`
-- Building for: players, creators, analysts, and local-first experimentation
+**Spectral Audiovisual** is an open innovation project focused on professional audiovisual technology, live event production, and custom electronics development.
+
+The project combines expertise in professional audio engineering, lighting design, broadcast systems, AV networking, custom hardware, embedded electronics, live event production, recording studio workflows, automation, analytics, and technical education.
+
+The mission is to create innovative technology that empowers live production, broadcasting, recording, and immersive audiovisual experiences.
 
 ---
 
-## Featured Project
+## Focus Areas
+
+- Professional audio engineering: FOH, monitor mixing, networked audio
+- Lighting design and show control: DMX, Art-Net, sACN
+- Broadcast and live-streaming systems
+- AV networking: Dante, NDI, OSC, and IP-based workflows
+- Custom hardware and embedded electronics for audiovisual applications
+- Live events, concerts, festivals, and cultural productions
+- Recording studio design and operation
+- Technical workflow automation and analytics
+
+---
+
+## Current Exploration
+
+- Real-time show control systems
+- AV-over-IP infrastructure
+- AI-assisted production tools
+- Event management and rental technology
+- Broadcast automation
+- Custom control surfaces and embedded devices
+- Measurement, visualization, and system optimization tools
+- Educational resources for future audiovisual professionals
+
+Beyond technology development, Spectral Audiovisual aims to support cultural initiatives, public events, and skills development programs that help young people enter the audiovisual industry.
+
+---
+
+## Hobby Project
 
 ### [MLBB Co-Pilot](https://github.com/spectralAV/mlbb-co-pilot)
 
-A semantic tactical intelligence system for Mobile Legends: Bang Bang. It combines a React app, Fastify backend, Electron desktop shell, computer-vision tooling, capture diagnostics, OBS overlays, map runtime data, and draft/build/live coaching engines.
+MLBB Co-Pilot is my hobby project: a local-first tactical intelligence and coaching tool for Mobile Legends: Bang Bang. It is where I experiment with desktop apps, computer vision, capture diagnostics, overlays, semantic suggestions, and game-analysis workflows.
 
 | Area | Stack |
 | --- | --- |
@@ -43,50 +72,41 @@ A semantic tactical intelligence system for Mobile Legends: Bang Bang. It combin
 
 ---
 
-## Tech Stack
+## Technology Stack
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
   <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white">
+  <img alt="OBS" src="https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white">
 </p>
 
-Frameworks and libraries:
+Core interests:
 
-- Fastify, React, Vite, Tailwind CSS, Electron
-- Ultralytics YOLO, ONNX Runtime, DirectML, OCR tooling
-- GitHub Actions, Docker, GHCR packaging
-
-Tools:
-
-- Git, GitHub, PowerShell, VS Code, ADB, scrcpy, OBS
+- AV systems, event technology, show control, broadcast automation
+- Embedded devices, custom control surfaces, measurement tools
+- Software tooling, analytics, real-time diagnostics, AI-assisted workflows
 
 ---
 
-## Roadmap Direction
+## Collaboration
 
-- `0.5.x`: installer, icon/signing polish, first-run setup
-- `0.6.x`: reliable phone capture with ADB, scrcpy, and OBS diagnostics
-- `0.7.x`: stronger CV confidence and calibration UX
-- `0.8.x`: polished draft, build, and live coaching workflows
-- `0.9.x`: public beta and clean-machine install testing
-- `1.0.0`: stable public release with clear platform support
+Spectral Audiovisual welcomes collaboration from developers, audio engineers, lighting programmers, broadcast specialists, hardware designers, educators, and anyone passionate about building the future of professional audiovisual technology.
 
 ---
 
 ## Support
 
-If MLBB Co-Pilot or the tooling helps you, optional support is welcome through [StreamElements](https://streamelements.com/martianost/tip).
+Optional support is welcome through [StreamElements](https://streamelements.com/martianost/tip). It helps fund open AV experiments, educational resources, and hobby software development.
 
 ---
 
 <p align="center">
   <a href="https://github.com/spectralAV/mlbb-co-pilot">MLBB Co-Pilot</a> | 
   <a href="https://github.com/spectralAV/mlbb-co-pilot/issues/new/choose">Issues</a> | 
-  <a href="https://github.com/spectralAV/mlbb-co-pilot/blob/main/docs/roadmap-1.0.md">Roadmap</a>
+  <a href="https://github.com/spectralAV/mlbb-co-pilot/blob/main/docs/roadmap-1.0.md">MLBB Roadmap</a>
 </p>
